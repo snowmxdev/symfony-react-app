@@ -623,13 +623,4 @@ Being able to structure an application that makes Ajax call to fetch contents fr
 
 In this tutorial, you have learned how to build a single page application, using Symfony as the backend and frontend logic powered by React. This gave you an exposure to how seamless it is to combine React and Symfony.
 
-I hope you found this tutorial helpful. Feel free to go through the [source code of this application on GitHub](https://github.com/yemiwebby/symfony-react-app) and add more features as you deem fit. Looking forward to hearing about what you will build using the knowledge gained from this tutorial.
-
-
-Name: Olususi Oluyemi<br />
-Avatar: https://pbs.twimg.com/profile_images/952789235576246272/5dDs0wbK_400x400.jpg <br />
-Bio: A tech enthusiast, programming freak and a web development junkie who loves to embrace new technology.<br />
-Twitter: https://twitter.com/yemiwebby <br />
-GitHub: https://github.com/yemiwebby <br />
-Website: https://yemiwebby.com.ng/ <br />
 
